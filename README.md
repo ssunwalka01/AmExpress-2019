@@ -21,3 +21,5 @@ Here is the schema for the different data tables available. The detailed data di
 ![Screenshot 2019-10-14 at 4 46 50 PM](https://user-images.githubusercontent.com/27502430/66747868-3226e300-eea3-11e9-82b7-ea4ea84ef7aa.png)
 ![Screenshot 2019-10-14 at 4 58 13 PM](https://user-images.githubusercontent.com/27502430/66748081-e294e700-eea3-11e9-8521-29835b16c479.png)
 ![Screenshot 2019-10-14 at 5 00 30 PM](https://user-images.githubusercontent.com/27502430/66748194-343d7180-eea4-11e9-8ca7-53de0a035797.png)
+
+#### Run join.ipynb or Joined_Submission.ipynb for a naive solution by performing joins on the datasets.
